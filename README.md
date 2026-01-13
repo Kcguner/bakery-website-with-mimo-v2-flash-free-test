@@ -252,7 +252,7 @@ Herhangi bir sorun veya öneri için:
 ---
 
 **Hazırlayan**: AI Asistan  
-**Tarih**: 2024  
+**Tarih**: 2026
 **Versiyon**: 1.0.0
 
 ---
@@ -511,7 +511,7 @@ For any issues or suggestions:
 ---
 
 **Created by**: AI Assistant  
-**Date**: 2024  
+**Date**: 2026  
 **Version**: 1.0.0
 
 ---
@@ -521,5 +521,6 @@ For any issues or suggestions:
 ### 🍰 Lezzet Pastanesi
 
 **Fresh Flavors Every Day!**
+
 
 </div>
