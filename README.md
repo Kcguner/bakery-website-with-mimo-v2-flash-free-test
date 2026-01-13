@@ -1,5 +1,7 @@
 # Lezzet Pastanesi - Modern Responsive Web Sitesi
 
+<h2>LIVE : https://kcguner.github.io/bakery-website-with-mimo-v2-flash-free-test/</h2>
+
 ![Lezzet Pastanesi](https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=400&fit=crop)
 
 Bu site sadece Mimo v2 flash free modeli test edilmek için yapılmıştır , gerçek bilgiler içermez.
@@ -528,4 +530,5 @@ For any issues or suggestions:
 
 
 </div>
+
 
