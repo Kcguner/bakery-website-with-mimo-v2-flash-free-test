@@ -2,6 +2,8 @@
 
 ![Lezzet Pastanesi](https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&h=400&fit=crop)
 
+Bu site sadece Mimo v2 flash free modeli test edilmek için yapılmıştır , gerçek bilgiler içermez.
+
 **Lezzet Pastanesi**, modern ve responsive bir tasarıma sahip, kullanıcı dostu pastane web sitesidir. Mor renk kullanılmadan tasarlanmış, animasyonlu efektlerle zenginleştirilmiş, örnek ürünler ve fiyatlar içeren tam bir web sitesi.
 
 ## 🎯 Özellikler
@@ -259,9 +261,11 @@ Herhangi bir sorun veya öneri için:
 
 ## 🌐 English Version / İngilizce Sürüm
 
-# Lezzet Pastanesi - Modern Responsive Website
+# Lezzet Pastanesi - Modern Responsive Website 
 
 **Lezzet Pastanesi** is a modern, responsive bakery website with a user-friendly design. Created without purple colors, enriched with animated effects, and featuring example products and prices.
+
+This site has been created solely for testing the Mimo v2 flash free model and does not contain any real information.
 
 ## 🎯 Features
 
@@ -524,3 +528,4 @@ For any issues or suggestions:
 
 
 </div>
+
